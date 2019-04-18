@@ -1,0 +1,17 @@
+.ungu{
+    color: aquamarine;
+}
+.orange{
+    color: orange;
+}
+
+.box{
+    border: 1px solid rgba(0,0,0, 0.37);
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 24%;
+    background-color: azure;
+    box-shadow: gray;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
